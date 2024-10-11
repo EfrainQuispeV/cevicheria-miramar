@@ -8,12 +8,12 @@ const Navbar = () => {
     <nav className='container'>
       <img src={logo} alt="" className="logo"/>
       <ul>
-        <li>Home</li>
-        <li>Program</li>
-        <li>About us</li>
+        <li>Inicio</li>
+        <li>Menu</li>
+        <li>Nosotros</li>
         <li>Sedes</li>
-        <li>Testimonials</li>
-        <li><button className='btn'>Contact us</button></li>
+        <li>Testimonios</li>
+        <li><button className='btn'>Contactanos</button></li>
       </ul>
     </nav>
   )
